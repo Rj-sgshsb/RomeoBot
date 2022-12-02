@@ -4,8 +4,8 @@ from RomeoBot.config.hell_config import Config
 
 class Development(Config):
   # get these values from my.telegram.org. 
-  APP_ID = 18551764    # 6 is a placeholder. Fill your 6 digit api id
-  API_HASH = "991a66d509729ab73929bb42b514dce5"   # replace this with your api hash
+  APP_ID = 15350244    # 6 is a placeholder. Fill your 6 digit api id
+  API_HASH = "28100f5f7ebbc51d16ca759c87af30dc"   # replace this with your api hash
 
   # create any PostgreSQL database.
   # I recommend to use elephantsql and paste that link here
@@ -15,11 +15,11 @@ class Development(Config):
   # Do `python string.py` and fill the on screen prompts.
   # String session will be saved in your saved message of telegram.
   # Put that string here.
-  ROMEOBOT_SESSION = "1BVtsOHgBuw3rsvwrB3uzoV1MjG69mDdKegyazeoir7VoJ2Cvq_ZFAAovnGYlmwk1bs6XhdWiUGo_g9qY-UdefA9wknZw89uRA766yqklIN_ZcAc5ns2nx37ZYGF1tC3pSIwUL3xvkhAOrbkFc3HPqza1MmroiLgBf5PKTF2cESJZpGeDYq4xsJQG_XNv3VToGtjZlzh81AwTSuNoU7L378pi9d_wz7ttAZVqm2WzkBhlS3YWFGgmDKeZMsf_nhWWkSoy3e5R-qbV8QCEWO4Y9vFfRtwvV_Cb975lANn0skLlQNT_twRUjO9aEJ4XmJKuOwZ4Hd-X6C653wV8cTJDQky8YM9btXY="
+  ROMEOBOT_SESSION = "1BVtsOJIBu5Ulqw7qelUe_xMMgL0OFbyny1rSJm5krlm0Rb2IWuKRLJj2-7zR6KxGddjDZUiH01P4gTqGsQK7shtZyAK3wc_HqC1HsmBIjDZvv9B33CCE9Pe5xTl31jMruQfCzUr9wSS2QcbNXC5KezxzWW_SYsd9eHWpAsjvhab3nhfP-vXLbN6pm_BsMeev3TCEtP0dfV3A_rjZd9LI1AMpL2B4t9AvXeU2YdM6GSbpCnm9c6bZ-aV9Z6LxgfQB9z9pUoW-gNzVvSq55fhlRNjhrVdXBrAciZ062yngwENG0yPn5EGBVxPoD9vWC-tBIa7a2-7OUjnNu5wZZcXeSUiuEM1TJCc="
 
   # Create a bot in @BotFather
   # And fill the following values with bot token and username.
-  BOT_TOKEN = "5604091752:AAEbdcctzFVW_eET0jWCbA8IYl7OEoOnHos" #token
+  BOT_TOKEN = "5423617634:AAGilf7a2Od1S7mK9ozNIl6VkN1q9zXcAZE" #token
 
   # Custom Command Handler. 
   HANDLER = "."
