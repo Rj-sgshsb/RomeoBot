@@ -4,6 +4,7 @@ apscheduler
 cairosvg
 cfscrape
 colour
+ConfigParser
 DateTime
 emoji
 fonttools
