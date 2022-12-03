@@ -4,7 +4,6 @@ apscheduler
 cairosvg
 cfscrape
 colour
-ConfigParser
 DateTime
 emoji
 fonttools
@@ -31,7 +30,7 @@ patool
 Pillow
 prettytable
 psutil
-psycopg2
+psycopg2==2.9.5
 pyfiglet
 PyGithub
 pygments
